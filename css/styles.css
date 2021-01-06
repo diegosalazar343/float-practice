@@ -1,15 +1,22 @@
 img {
   float: right;
+  padding-left: 35px;
 }
 
 .sidebar {
   width: 30%;
   float: left;
   background-color: orange;
+  padding-top: 20px;
 }
 
+.middle {
+  float: right;
+  padding-top: 20px;
+}
 
-.body{
+body {
   color: black;
   text-align: center;
+  background-color: orange;
 }
