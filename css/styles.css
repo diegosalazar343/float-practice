@@ -6,11 +6,16 @@ img {
 .sidebar {
   width: 30%;
   float: left;
-  background-color: orange;
+  background-color: pink;
   padding-top: 20px;
+  border-width: 5px;
+}
+.music {
+  text-align: left;
 }
 
 .gif {
+  padding-top: 15px;
   float: left;
 }
 
@@ -22,5 +27,8 @@ img {
 body {
   color: black;
   text-align: center;
-  background-color: orange;
+  background-image: url("https://i.redd.it/c0p7l5ig4ngx.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
